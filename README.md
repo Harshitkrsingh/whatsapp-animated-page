@@ -19,7 +19,7 @@ A WhatsApp-inspired animated web project built using HTML, CSS and AOS Animation
 ## Project Preview
 
 
-[](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1)](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1#issue-5603787583)
+[[](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1)](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1#issue-5603787583)](https://github.com/user-attachments/assets/b1c2b01a-2a69-485c-8a36-6b8dde2f9bde)
 ## How to Run
 
 1. Clone the repository
