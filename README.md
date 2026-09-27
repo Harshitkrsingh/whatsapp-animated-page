@@ -18,8 +18,8 @@ A WhatsApp-inspired animated web project built using HTML, CSS and AOS Animation
 
 ## Project Preview
 
-[<!-- Add your project screenshot here -->
-](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1)
+
+[](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1)](https://github.com/Harshitkrsingh/Harshitkrsingh/issues/1#issue-5603787583)
 ## How to Run
 
 1. Clone the repository
